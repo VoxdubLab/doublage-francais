@@ -1,0 +1,57 @@
+[
+    {
+        "nom": "Richard Darbois",
+        "photo_de_profil": "data:image/jpeg;base64,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",
+        "reseaux": {
+            "facebook": "Lien Facebook",
+            "twitter": "Lien Twitter",
+            "instagram": "Lien Instagram"
+        },
+        "bande_demo": "Lien de la bande démo",
+        "adjectifs": [
+            "Talentueux",
+            "Polyvalent",
+            "Expressif"
+        ],
+        "productions": [
+            {
+                "titre": "Titre de la Production",
+                "role": "Rôle joué",
+                "annee": "Année de sortie"
+            },
+            {
+                "titre": "Autre Titre de la Production",
+                "role": "Autre Rôle joué",
+                "annee": "Autre Année de sortie"
+            }
+        ],
+        "biographie": "Biographie du comédien",
+        "filmographie": [
+            {
+                "titre": "Titre du Film ou Série",
+                "role": "Rôle joué",
+                "annee": "Année de sortie"
+            },
+            {
+                "titre": "Autre Titre du Film ou Série",
+                "role": "Autre Rôle joué",
+                "annee": "Autre Année de sortie"
+            }
+        ],
+        "autres_informations": {
+            "date_de_naissance": "Date de naissance",
+            "lieu_de_naissance": "Lieu de naissance",
+            "langues": [
+                "Français",
+                "Anglais"
+            ],
+            "prix_et_recompenses": [
+                "Prix du meilleur doubleur 2019",
+                "Nomination aux Oscars du doublage 2020"
+            ],
+            "formation": "École de doublage XYZ",
+            "agence_de_doublage": "Agence de doublage ABC",
+            "contact": "Adresse e-mail de contact"
+        }
+    }
+]
